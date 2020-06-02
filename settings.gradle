@@ -1,0 +1,2 @@
+rootProject.name='monthfd_sample'
+include ':app'
